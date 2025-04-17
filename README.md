@@ -1,5 +1,7 @@
 # Kailasa Capital Trading Strategies
 
+![image](https://github.com/user-attachments/assets/eb65f5b5-3ec6-4fe9-b3e6-8260826317d4)
+
 ## Overview
 This repository contains a comprehensive suite of algorithmic trading strategies developed by Kailasa Capital for the Indian equity markets, specifically targeting Nifty 50 and Nifty Bank indices. The strategies are implemented in Python using Jupyter notebooks and leverage various technical analysis techniques to generate trading signals.
 
