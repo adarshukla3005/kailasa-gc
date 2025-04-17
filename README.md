@@ -50,14 +50,6 @@ python-dateutil>=2.8.2
 
 Install dependencies using: `pip install -r requirements.txt`
 
-## Performance Highlights
-| Metric               | Strategy 1 (Daily) | Strategy 2 (15-Min) | Strategy 3 (60-Min) |
-|----------------------|-------------------|---------------------|---------------------|
-| Total Net Profit     | ₹ 3,452,750       | ₹ 2,987,400         | ₹ 3,214,600         |
-| Win Rate             | 68.50%            | 62.25%              | 59.07%              |
-| Profit Factor        | 2.87              | 2.13                | 2.42                |
-| Sharpe Ratio         | 1.85              | 1.67                | 1.72                |
-
 ## Usage
 1. Clone this repository
 2. Install required dependencies using `pip install -r requirements.txt`
