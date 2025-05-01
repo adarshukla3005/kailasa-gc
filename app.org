@@ -1,0 +1,42 @@
+#+TITLE: Quantitative Strategies Portfolio
+#+AUTHOR: Adarsh
+#+DESCRIPTION: A collection of quantitative trading strategies implemented in Python.
+
+* Project Overview
+This project contains multiple quantitative trading strategies for use in backtesting or live trading environments.
+
+* Features
+- Multiple trading strategies
+- Backtesting framework
+- Data preprocessing
+- Performance analytics
+
+* Requirements
+- Python 3.8+
+- pandas
+- numpy
+- yfinance
+- matplotlib
+
+* Installation
+Clone the repo and install dependencies:
+#+BEGIN_SRC shell
+git clone https://github.com/adarshukla3005/quantitative-strategies-portfolio.git
+cd quantitative-strategies-portfolio
+pip install -r requirements.txt
+#+END_SRC
+
+* Usage
+To run a strategy:
+#+BEGIN_SRC python
+python mean_reversion_strategy.py
+#+END_SRC
+
+* Contributing
+Contributions are welcome. Please fork the repo and submit a pull request.
+
+* License
+MIT License
+
+* Contact
+For questions, contact: adarsh@example.com (replace with your real email)
